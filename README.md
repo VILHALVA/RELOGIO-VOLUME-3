@@ -24,6 +24,4 @@ Este é um relógio analógico simples que exibe a hora atual com ponteiros para
 ## CREDITOS:
 - [PROJETO FEITO PELO "WilliamDosSantos"](https://github.com/WilliamDosSantos/Relogio-analogico-javascript)
 - [PROJETO MODIFICADO E PUBLICADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
 
